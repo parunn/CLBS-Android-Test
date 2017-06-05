@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- String Map Activity Section -->
+    <string name="app_name">CLBS Android Test</string>
+    <string name="clbs_title">CLBS Application</string>
+    <string name="clbs_company">Android</string>
+    <string name="clbs_latitude_input">Latitude : </string>
+    <string name="clbs_longitude_input">Longitude : </string>
+    <string name="clbs_radius_input">Radius : </string>
+
+    <string name="clbs_fragment_one_input">First Fragment : </string>
+    <string name="clbs_fragment_two_input">Second Fragment : </string>
+    <string name="clbs_fragment_one_description">Please type something</string>
+    <string name="clbs_fragment_two_description">Please type something</string>
+
+    <string name="clbs_map_input_description">Please insert parameters</string>
+    <string name="clbs_submit_button">Search</string>
+
+    <string name="clbs_tab01_title">Search Type A</string>
+    <string name="clbs_tab02_title">Search Type B</string>
+    <string name="clbs_tab03_title">Fragment Activity</string>
+
+    <string name="clbs_error">Error</string>
+    <string name="clbs_ok">OK</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
+</resources>
